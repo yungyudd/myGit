@@ -4,7 +4,7 @@ import java.net.URI;
 import java.net.URL;
 
 public class UrlInfo {
-	//dddd
+	//ddddddddd
 	public static void main(String[] args) {
 		try {
 			URL url = new URL("https://www.iei.or.kr/login/currBoard.kh");
